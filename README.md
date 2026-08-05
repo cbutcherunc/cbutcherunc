@@ -2,7 +2,9 @@
 
 I'm a senior at UNC Chapel Hill studying Computer Science, with minors in Data Science and Statistics & Analytics. 
 
-My professional interests lie in full-stack development, artificial intelligence, and machine learning.<br>In my free time, I enjoy playing guitar, going to concerts, and reading.
+My professional interests lie in full-stack development, artificial intelligence, and machine learning.
+
+In my free time, I enjoy playing guitar, going to concerts, and reading.
 
 Connect with me: 
 
