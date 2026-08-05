@@ -1,12 +1,10 @@
-# Hey there, I'm Chris! 👋
+# Hello, I'm Chris! 👋
 
-I'm a senior at UNC Chapel Hill studying Computer Science with minors in Data Science and Statistics & Analytics, graduating in May 2027.
+I'm a senior at UNC Chapel Hill studying Computer Science, with minors in Data Science and Statistics & Analytics. 
 
-My professional interests are  full stack development, artificial intelligence, and machine learning.
+My professional interests lie in full-stack development, artificial intelligence, and machine learning.<br>In my free time, I enjoy playing guitar, going to concerts, and reading.
 
-My personal interests include playing guitar, going to concerts, and reading.
-
-Feel free to reach out!
+Connect with me: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chrisbutcher901)
 
